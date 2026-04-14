@@ -1,23 +1,44 @@
-# algoritmos-2-lista
-Lista de exercícios de algoritmos 2, questões de 1 a 10.
+# Algoritmos 2 - Listas de Exercícios
 
-1. Crie um procedimento que exiba a mensagem: “Iniciando o sistema”.
-2. Desenvolva uma função que receba um número inteiro e retorne seu dobro.
-3. Crie uma função que receba dois números e retorne a soma entre eles.
-4. Desenvolva um procedimento que receba um nome e exiba: “Olá, [nome]”.
-5. Escreva uma função que receba três notas e retorne a média.
-6. Crie um procedimento que receba a média de um aluno e informe se ele foi aprovado
-(média ≥ 6).
-7. Desenvolva uma função que receba um número e retorne verdadeiro se for par e falso
-caso contrário.
-8. Crie um algoritmo que utilize uma função para calcular o quadrado de um número e exiba
-o resultado.
-9. Desenvolva um programa modular que:
-● Leia dois números;
-● Use uma função para calcular a soma;
-● Use um procedimento para exibir o resultado.
-10. Crie um conjunto de funções para:
-● calcular soma
-● calcular média
-● calcular maior valor
-E utilize todas em um programa principal.
+Aluno: Matheus Mendes
+
+## Sobre o projeto
+
+Este repositório contém as resoluções das listas de exercícios da disciplina de Algoritmos 2, desenvolvidas na linguagem C.
+
+Os exercícios abordam conceitos como:
+
+* Funções
+* Procedimentos
+* Entrada e saída de dados
+* Estruturas condicionais
+* Modularização
+
+## Estrutura do repositório
+
+```
+algoritmos-2-lista/
+└── lista-01/
+    ├── exercicio-01.c
+    ├── exercicio-02.c
+    ├── exercicio-03.c
+    ├── exercicio-04.c
+    ├── exercicio-05.c
+    ├── exercicio-06.c
+    ├── exercicio-07.c
+    ├── exercicio-08.c
+    ├── exercicio-09.c
+    └── exercicio-10.c
+```
+
+## Linguagem utilizada
+
+C
+
+## Objetivo
+
+Praticar os conceitos de programação modular utilizando funções e procedimentos em C.
+
+## Observações
+
+Os exercícios foram desenvolvidos com foco em simplicidade e organização.
